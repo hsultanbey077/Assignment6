@@ -5,9 +5,9 @@ import Singleton.DemoSingleThread;
 public class main {
     public static void main(String[] args) {
         DemoSingleThread.main();
-        System.out.println("****************************************************");
+        System.out.println("---------------------------------------------------------------------------------------");
         Demo.main();
-        System.out.println("****************************************************");
+        System.out.println("---------------------------------------------------------------------------------------");
         DemoBuilder.main();
     }
 }
